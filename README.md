@@ -1,4 +1,4 @@
-# 👋 Britskij Nikita
+# Hi, I'm Britskij Nikita👋 
 
 🏆 **Position:** Junior Backend Developer  
 💻 **Experience:** 6 months  
