@@ -2,9 +2,10 @@
 
 🏆 **Position:** Junior Backend Developer  
 💻 **Experience:** 6 months  
-👤 **Age:** 17 y.o  
+👤 **Age:** 18 y.o  
 ⚙️ **Current Project:** 🎃 *Halloween out of Costume*  
-🌐 **English Level:** B1
+🌐 **English Level:** B2
+🌐 **Slovak Level:** B2
 
 ## 🌐 Socials
 
