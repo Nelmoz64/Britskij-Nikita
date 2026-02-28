@@ -1,11 +1,10 @@
-# Hi, I'm Britskij Nikita👋 
+# Hi, I'm Britskiy Nikita👋 
 
 🏆 **Position:** Junior Backend Developer  
 💻 **Experience:** 6 months  
 👤 **Age:** 18 y.o  
-⚙️ **Current Project:** 🎃 *Halloween out of Costume*  
-🌐 **English Level:** B2
-🌐 **Slovak Level:** B2
+⚙️ **Current Project:** *Halloween out of Costume* 🎃 
+🌐 **English Level:** B2 | **Slovak Level:** B2
 
 ## 🌐 Socials
 
